@@ -16,7 +16,10 @@ this is a web app named TaskChain
  
  このアプリのURLはこちらです。  
    https://new-check-together.firebaseapp.com/
+   
  
+ 私のポートフォリオサイトはこちらです。  
+ https://ryusuke1998.github.io/websiteforportfolio/　　
  
  
  〇機能
