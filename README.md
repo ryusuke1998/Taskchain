@@ -4,11 +4,11 @@ this is a web app named TaskChain
 〇使用技術
  HTML, SCSS, JavaScript, Vue, Vuetify, FireBase(realtime database, authentication, storage),
  Babel, Compressor.js, VueRouter, VueCLI
- 
+   
  このアプリの使い方は下記のページをご参照下さい。
  https://note.com/ryusuke1/n/nbd380f3920f2
- 
- 
+   
+   
  なぜこのアプリを作成したか、なぜそのような機能が付いているか等
  知りたい方は下記のページをご参照下さい。
  https://note.com/ryusuke1/n/n7605ef620724
